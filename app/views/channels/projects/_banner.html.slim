@@ -1,5 +1,7 @@
 .channel_banner
   .center_content
-    = image_tag "home-banner.#{I18n.locale}.jpg"
+    .banner
+      = image_tag "home-banner.#{I18n.locale}.png"
+      iframe width="500" height="281" src="http://www.youtube.com/embed/#{t("projects.index.youtube_video_id")}?showinfo=0&controls=0" frameborder="0" allowfullscreen
     .text
       h2= t("projects.index.what_is_html")
