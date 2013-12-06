@@ -6,5 +6,5 @@ unless defined?(I18nViz).nil?
   # Link to display in the I18nViz tooltip
   # e.g. pointing to that particular string in your apps translation tool (webtranslateit.com, localeapp.com, ...)
   # the i18n key will be appended to this URL
-  I18nViz.external_tool_url = "https://webtranslateit.com/en/projects/7049-LittleBigMoney/locales/pt..es/strings?utf8=✓&object=&s="
+  I18nViz.external_tool_url = "https://webtranslateit.com/en/projects/7049-LittleBigInvestment/locales/pt..es/strings?utf8=✓&object=&s="
 end

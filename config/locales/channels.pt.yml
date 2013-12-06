@@ -27,11 +27,11 @@ pt:
         legend_html: "Após preencher o formulário abaixo, você receberá uma página de projeto em rascunho. Lá você irá adicionar as recompensas e poderá compartilhar com seus amigos para ter um projeto ainda mais afiado. <br/> <br/> As informações preenchidas abaixo não são definitivas, mas lembre-se de que quanto mais consistente estiver o seu projeto nesse envio, mais rápido ele irá para o ar. <br/> <br/> <strong>Importante</strong> <br/> O Canal Asas seleciona projetos segundo seus próprios <a href=' https://docs.google.com/document/d/1TomgNL2k3Vlya-nMJixe-06cEjyswqIdtQwQ6OfOkoc/edit' target='_blank'>critérios de seleção</a>, o que implica que seu projeto poderá ser recusado pela equipe de curadores. "
         permalink_hint: "Simplifique a URL do seu projeto.Imagine que seu apoiador precisará lembrar do endereço para dibulgar o projeto no bar."
         permalink_important: "Tente não usar Underline, hífen e etc."
-        important_html: "Lembre-se da taxa de 13% cobrada pelo LittleBigMoney caso seu projeto seja bem-sucedido. Basta dividir o seu orçamento final por 0,87."
+        important_html: "Lembre-se da taxa de 13% cobrada pelo LittleBigInvestment caso seu projeto seja bem-sucedido. Basta dividir o seu orçamento final por 0,87."
         about: "Descreva seu projeto e como o $ será utilizado"
         how_much_you_need: "Quanto você pretende arrecadar?"
-        how_much_hint_html: "É importante lembrar que grande parte dos apoios virão de pessoas próximas a você (1º  e 2º nível de relacionamento): <a href='%{href}' target='_blank'>Clique aqui!</a> Desse modo, ao definir o valor que pretende arrecadar através do LittleBigMoney é fundamental pensar na sua capacidade de mobilizar pelo menos 50% do valor dentro da sua rede de contatos."
-        how_much_important: "Lembre-se da taxa de 13% cobrada pelo LittleBigMoney caso seu projeto seja bem-sucedido.  Basta dividir o seu orçamento final por 0,87."
+        how_much_hint_html: "É importante lembrar que grande parte dos apoios virão de pessoas próximas a você (1º  e 2º nível de relacionamento): <a href='%{href}' target='_blank'>Clique aqui!</a> Desse modo, ao definir o valor que pretende arrecadar através do LittleBigInvestment é fundamental pensar na sua capacidade de mobilizar pelo menos 50% do valor dentro da sua rede de contatos."
+        how_much_important: "Lembre-se da taxa de 13% cobrada pelo LittleBigInvestment caso seu projeto seja bem-sucedido.  Basta dividir o seu orçamento final por 0,87."
         days: "Em quantos dias?"
         days_hint: "Em média os projetos ficam no ar por 40 dias."
         days_important: "O prazo máximo para deixar o projeto no ar é de 90 dias."
@@ -57,7 +57,7 @@ pt:
         facebook_hint: "http://facebook.com/__________"
         twitter_hint: "http:// twitter.com/____________"
         social_important: "É muito importante utilizar as suas mídias sócias para espalhar a notícia sobre o seu projeto e engajar sua rede no sucesso do projeto."
-        know_us_via: "Como você conheceu o LittleBigMoney?"
+        know_us_via: "Como você conheceu o LittleBigInvestment?"
         knowus_important: "Oba! Chegamos à última pergunta! Capricha aí, amizade ;)"
         how_works: "Como pretende mobilizar apoiadores para levantar o $ necessário para a execução?"
         project_warning:
@@ -75,7 +75,7 @@ pt:
       terms: "Termos de uso"
       privacy_policy: "Política de Privacidade"
       how_it_works: "Como funciona o %{name}"
-      how_channels_work: "Entenda os Canais no LittleBigMoney"
+      how_channels_work: "Entenda os Canais no LittleBigInvestment"
       contact: Contato
     accessibility:
       how_it_works: "Clique para saber como o Canal funciona e enviar o seu projeto"

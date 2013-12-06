@@ -9,7 +9,7 @@ es:
         user_id: "Identificación de Usuario"
         goal: Meta
         total_payment_service_fee: "Tarifa de PayU"
-        total_catarse_fee: "Tarifa de LittleBigMoney"
+        total_catarse_fee: "Tarifa de LittleBigInvestment"
         repass_value: "Valor a pagar"
         expires_at: Finaliza
         online_date: "Va en vivo"
@@ -157,7 +157,7 @@ es:
           user_id: Usuario
           goal: Meta
           total_payment_service_fee: "Tarifa de PayU"
-          total_catarse_fee: "Tarifa de LittleBigMoney"
+          total_catarse_fee: "Tarifa de LittleBigInvestment"
           repass_value: "Valor a pagar"
           expires_at: Finaliza
           online_date: "Va en vivo"

@@ -40,10 +40,10 @@ en:
         site_title: "Reset password"
         label_new_password: "Type your new password bellow"
         title: "Reset password"
-        subtitle: "Set a new password to use your email address to access LittleBigMoney anytime"
+        subtitle: "Set a new password to use your email address to access LittleBigInvestment anytime"
         submit: "Reset password"
     registrations:
-      destroyed: "Thanks! Your account was cancelled. We hope to see you in LittleBigMoney soon!"
+      destroyed: "Thanks! Your account was cancelled. We hope to see you in LittleBigInvestment soon!"
       signed_up: "Welcome! You have signed up successfully."
       signed_up_but_inactive: "You have signed up successfully. However, we can not log you in because your account is not yet activated."
       signed_up_but_locked: "You have signed up successfully. However, we could not log you in because your account is blocked."

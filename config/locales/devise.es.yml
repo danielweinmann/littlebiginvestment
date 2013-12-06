@@ -40,10 +40,10 @@ es:
         site_title: "Cambiar Contraseña"
         label_new_password: "Digita tu nueva contraseña abajo."
         title: "Cambiar Contraseña"
-        subtitle: "Define una nueva contraseña para utilizar tu correo electronico cuando quieras acceder a LittleBigMoney"
+        subtitle: "Define una nueva contraseña para utilizar tu correo electronico cuando quieras acceder a LittleBigInvestment"
         submit: "Cambiar Contraseña"
     registrations:
-      destroyed: "Gracias. Tu cuenta fue cancelada, esperamos verte en LittleBigMoney de nuevo!"
+      destroyed: "Gracias. Tu cuenta fue cancelada, esperamos verte en LittleBigInvestment de nuevo!"
       signed_up: "¡Bienvenido! Te has registrado correctamente."
       signed_up_but_inactive: "Te has registrado exitosamente. Sin embargo, no puedes iniciar sesión porque tu cuenta todavía no ha sido activada."
       signed_up_but_locked: "Te has registrado exitosamente. Sin embargo, no puedes iniciar sesión porque tu cuenta está bloqueada."

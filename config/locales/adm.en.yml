@@ -9,7 +9,7 @@ en:
         user_id: "User ID"
         goal: Goal
         total_payment_service_fee: "PayU's fee"
-        total_catarse_fee: "LittleBigMoney's fee"
+        total_catarse_fee: "LittleBigInvestment's fee"
         repass_value: "Value to pay"
         expires_at: Ends
         online_date: "Went live"
@@ -157,7 +157,7 @@ en:
           user_id: "User ID"
           goal: Goal
           total_payment_service_fee: "PayU's fee"
-          total_catarse_fee: "LittleBigMoney's fee"
+          total_catarse_fee: "LittleBigInvestment's fee"
           repass_value: "Value to pay"
           expires_at: Ends
           online_date: "Went live"
