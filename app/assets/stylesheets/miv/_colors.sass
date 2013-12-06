@@ -75,10 +75,14 @@ $red: #cc1529
 
 // LBM colors
 $warmgray:        #b9b9b9
-$carrot:          #f57421
-$darkcarrot:      darken($carrot, 10%)
-$navy:            #0b5373
-$lightnavy:       lighten($navy, 10%)
+// TODO make this colors semantic and precise: I'm making $darkcarrot now actualy a light blue for LittleBigInvestment
+$darkcarrot:      darken(#99d6ea, 10%)
+// TODO make this colors semantic and precise: I'm making $carrot now actualy a darkened light blue for LittleBigInvestment
+$carrot:          darken($darkcarrot, 10%)
+// TODO make this colors semantic and precise: I'm making $navy now actualy a blue for LittleBigInvestment
+$navy:            darken(#41b6e6, 10%)
+// TODO make this colors semantic and precise: I'm making $lightnavy now actualy a darkened blue for LittleBigInvestment
+$lightnavy:       darken($navy, 10%)
 $brightblue:      #23bcef
 $lightgray:       #f5f5f5
 $mediumgray:      #555
