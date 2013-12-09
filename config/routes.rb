@@ -18,8 +18,8 @@ Catarse::Application.routes.draw do
   end
 
   mount CatarsePaypalExpress::Engine => "/", as: :catarse_paypal_express
-  mount CatarsePayulatam::Engine => "/", :as => :catarse_payulatam
-  mount CatarsePayroll::Engine => "/", :as => :catarse_payroll
+  # mount CatarsePayulatam::Engine => "/", :as => :catarse_payulatam
+  # mount CatarsePayroll::Engine => "/", :as => :catarse_payroll
 
   # Non production routes
   if Rails.env.development?
