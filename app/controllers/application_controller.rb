@@ -22,6 +22,9 @@ class ApplicationController < ActionController::Base
   before_filter :set_locale
   before_filter :force_http
 
+  # TODO: remove this to launch
+  before_filter :authenticate
+
   # TODO: Change this way to get the opendata
   before_filter do
     @fb_admins = [100000428222603, 547955110]
@@ -52,6 +55,12 @@ class ApplicationController < ActionController::Base
 
   private
   
+  def authenticate
+    authenticate_or_request_with_http_basic do |name, password|
+      name == "admin" && Digest::MD5.hexdigest(password) == "429d9cdf4599fcc7afc12ea0ad548b02"
+    end
+  end
+
   def fb_admins
     @fb_admins.join(',')
   end
