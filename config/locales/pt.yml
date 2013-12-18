@@ -393,6 +393,16 @@ pt:
     index:
       what_is_html: "<strong>LittleBigInvestment</strong> é a primeira plataforma da região de micro-investimento coletivo para o financiamento e desenvolvimento de PMEs"
       youtube_video_id: g3LvjdlOldo
+      banner_image_1: "http://s10.postimg.org/ipntarbex/home_banner_es.png"
+      banner_image_2: ~
+      banner_image_3: ~
+      banner_image_4: ~
+      banner_image_5: ~
+      banner_image_6: ~
+      banner_image_7: ~
+      banner_image_8: ~
+      banner_image_9: ~
+      banner_image_10: ~
       slogan_donate: "Uma pequena doação, uma grande ajuda"
       slogan_invest: "(En breve) cresça com os novos empreendedores"
     box:
@@ -449,7 +459,7 @@ pt:
         paypal_description: "Apoio para o projeto %{project_name} no valor de %{value}"
         paypal_error: "Ooops. Ocorreu um erro ao enviar seu pagamento para o PayPal. Por favor, tente novamente."
         paypal_currency: USD
-        paypal_conversion: "1805.00"
+        paypal_conversion: "1816.00"
         payulatam_submit: "Ir para o PayU Latam"
         payulatam_description: "Apoio para o projeto %{project_name} no valor de %{value}"
         payulatam_error: "Ooops. Ocorreu um erro ao enviar seu pagamento para o PayU Latam. Por favor, tente novamente."

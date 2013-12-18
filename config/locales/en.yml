@@ -393,6 +393,16 @@ en:
     index:
       what_is_html: "<strong>LittleBigInvestment</strong> is Latin America's first crowdfunding platform for small and growing businesses with social impact"
       youtube_video_id: g3LvjdlOldo
+      banner_image_1: "http://s10.postimg.org/ipntarbex/home_banner_es.png"
+      banner_image_2: ~
+      banner_image_3: ~
+      banner_image_4: ~
+      banner_image_5: ~
+      banner_image_6: ~
+      banner_image_7: ~
+      banner_image_8: ~
+      banner_image_9: ~
+      banner_image_10: ~
       slogan_donate: "A little donation, a big help"
       slogan_invest: "Grow with new entrepreneurs (soon)"
     box:
@@ -449,7 +459,7 @@ en:
         paypal_description: "Support for the project %{project_name} with the value of %{value}"
         paypal_error: "Oops! Something happened with sending your payment to PayPal. Please try again."
         paypal_currency: USD
-        paypal_conversion: "1826.00"
+        paypal_conversion: "1821.00"
         payulatam_submit: "Go to PayU Latam"
         payulatam_description: "Support for the project %{project_name} with the value of %{value}"
         payulatam_error: "Oops! Something happened with sending your payment to PayU Latam. Please try again."

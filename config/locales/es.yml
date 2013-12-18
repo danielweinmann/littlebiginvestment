@@ -393,6 +393,16 @@ es:
     index:
       what_is_html: "<strong>LittleBigInvestment</strong> es una plataforma de financiación colectiva para Microempresas con impacto social o ambiental"
       youtube_video_id: KMawKowOt3s
+      banner_image_1: "http://s10.postimg.org/ipntarbex/home_banner_es.png"
+      banner_image_2: ~
+      banner_image_3: ~
+      banner_image_4: ~
+      banner_image_5: ~
+      banner_image_6: ~
+      banner_image_7: ~
+      banner_image_8: ~
+      banner_image_9: ~
+      banner_image_10: ~
       slogan_donate: "Una pequeña colaboración, una gran ayuda"
       slogan_invest: "(Próximamente) crece con nuevos emprendedores"
     box:
@@ -449,7 +459,7 @@ es:
         paypal_description: "Colaboración para el proyecto %{project_name} con el valor de %{value}"
         paypal_error: "Oops! Algo sucedió con el envío de tu pago para PayPal. Por favor, intenta de nuevo."
         paypal_currency: USD
-        paypal_conversion: "1826.00"
+        paypal_conversion: "1816.00"
         payulatam_submit: "Ir a PayU Latam"
         payulatam_description: "Colaboración para el proyecto %{project_name} con el valor de %{value}"
         payulatam_error: "Oops! Algo sucedió con el envío de tu pago para PayU Latam. Por favor, intenta de nuevo."

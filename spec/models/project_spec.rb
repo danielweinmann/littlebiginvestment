@@ -199,7 +199,7 @@ describe Project do
       Project.should_receive(:visible).and_return(Project)
       Project.should_receive(:not_expired).and_return(Project)
       Project.should_receive(:order).with('random()').and_return(Project)
-      Project.should_receive(:limit).with(4)
+      Project.should_receive(:limit).with(3)
     end
 
     it{ should be_empty }
@@ -274,8 +274,8 @@ describe Project do
 
   describe ".recent" do
     before do
-      @p = create(:project, online_date: (Time.now - 4.days))
-      create(:project, online_date: (Time.now - 15.days))
+      @p = create(:project, online_date: (Time.now - 29.days))
+      create(:project, online_date: (Time.now - 31.days))
     end
     subject{ Project.recent }
     it{ should == [@p] }
